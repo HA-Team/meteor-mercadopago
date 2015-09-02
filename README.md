@@ -37,7 +37,7 @@ meteor --settings [settings.json]
 If everything went fine you should have (server side) access to the variable ``MercadPago``.
 
 ### Sync, Promise and Callback
-All methods of ``MercadoPago`` can be called in a synchronous or asynchronous way. All methods have a regular version (sync) and one starting with a lowdash (async). For example you have tree ways of using the method ``createPreference``.
+All methods of ``MercadoPago`` can be called in a synchronous or asynchronous way. All methods have a regular version (sync) and one starting with a lowdash (async). For example you have three ways of using the method ``createPreference``.
 
 #### Sync
 ```
